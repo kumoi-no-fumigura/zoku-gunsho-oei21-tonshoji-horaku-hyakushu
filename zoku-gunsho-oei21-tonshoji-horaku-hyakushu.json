@@ -1668,6 +1668,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 12,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-oei21-tonshoji-horaku-hyakushu",
   "work": "応永廿一年頓証寺法楽百首",
@@ -1680,7 +1684,7 @@
   "blocks": 12,
   "chars": 3180,
   "poems": 100,
-  "yaku": 0,
+  "yaku": 12,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T17:04:54+09:00"
